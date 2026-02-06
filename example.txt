@@ -1,0 +1,7 @@
+Buy groceries:
+- milk
+- eggs
+- bread
+
+Call dentist on Thursday
+Finish coding assignment
